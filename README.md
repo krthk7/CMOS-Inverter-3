@@ -45,4 +45,7 @@ tp: 0.5*(tphl+tplh)=0.254986
 ***
 ## 2. Inverter Post-Layout
 Now coming to the main part. The layout the electric provides the lamda length 100nm,where in i have used 2lamda/180nm.The stick diagram is also provided for reference.<br>
-![image](https://user-images.githubusercontent.com/67727794/229352361-e8fa90a6-a0b5-483c-9111-7d8a2b687141.png)
+![CMOS-Inverter-3](./Images/Pre-layout5.png)<br>
+**Layout**
+![CMOS-Inverter-3](./Images/Post-layout1.png)<br>
+

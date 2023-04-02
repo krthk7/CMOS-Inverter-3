@@ -30,4 +30,4 @@ Lets look into the propagation delay,notice ive not connected any load accross t
 <br />
 **Output**
 <br />
-![CMOS-Inverter-3](./Images/Pre-layout3.png)<br>
+![CMOS-Inverter-3](./Images/Pre-layout4.png)<br>

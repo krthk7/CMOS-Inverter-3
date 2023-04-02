@@ -42,3 +42,7 @@ time4: time=10.2452 at 10.2452
 tphl: time3-time4=0.254792
 tp: 0.5*(tphl+tplh)=0.254986
 ```
+***
+## 2. Inverter Post-Layout
+Now coming to the main part. The layout the electric provides the lamda length 100nm,where in i have used 2lamda/180nm.The stick diagram is also provided for reference.<br>
+![image](https://user-images.githubusercontent.com/67727794/229352361-e8fa90a6-a0b5-483c-9111-7d8a2b687141.png)

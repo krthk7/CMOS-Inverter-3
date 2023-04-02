@@ -32,3 +32,13 @@ Lets look into the propagation delay,notice ive not connected any load accross t
 <br>
 ![CMOS-Inverter-3](./Images/Pre-layout4.png)<br>
 <br>
+The propagation delay got is 0.254986 sec or tp=254msec <br>
+```
+time1: time=35.5 at 35.5
+time2: time=35.7552 at 35.7552
+tplh: time2-time1=0.25518
+time3: time=10.5 at 10.5
+time4: time=10.2452 at 10.2452
+tphl: time3-time4=0.254792
+tp: 0.5*(tphl+tplh)=0.254986
+```

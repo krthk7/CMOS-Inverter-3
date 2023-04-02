@@ -1,6 +1,6 @@
 # CMOS-Inverter-3
 ### Inverter Layout
-Whooo !! The last part of the project. This the last repository on the inverter where in I've designed the layout of the inverter. For this I've used the Electric VLSI tool and also integrated both LT spice and Electric for Simulation purpose.This part of the project deals in two phases Pre-Layout Simulation and Post Layout Simulation and also ill inculde what happens to the propagation dealy after layout.
+Whooo !! The last part of the project. This the last repository on the inverter where in I've designed the layout of the inverter. For this I've used the Electric VLSI tool and also integrated both LT spice and Electric for Simulation purpose.This part of the project deals in two phases Pre-Layout Simulation and Post Layout Simulation and also ill inculde the propagation dealy.
 
 ***
 ### Contents
@@ -41,6 +41,7 @@ time3: time=10.5 at 10.5
 time4: time=10.2452 at 10.2452
 tphl: time3-time4=0.254792
 tp: 0.5*(tphl+tplh)=0.254986
+
 ```
 ***
 ## 2. Inverter Post-Layout

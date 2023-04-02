@@ -49,4 +49,9 @@ Now coming to the main part. The layout the electric provides the lamda length 1
 ![CMOS-Inverter-3](./Images/Pre-layout5.png)<br>
 **Layout**
 ![CMOS-Inverter-3](./Images/Post-layout1.png)<br>
+<br>
 
+With all these the project comes to an end.<br>
+I had great amount learning in this process hope to post more such vlsi projects.<br>
+Any suggestions are open.<br>
+**Thank You***

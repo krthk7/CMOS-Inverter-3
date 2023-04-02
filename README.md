@@ -14,20 +14,21 @@ Whooo !! The last part of the project. This the last repository on the inverter 
 
 This part deals with the simulation of inverter in pre-layout part. This is the same simulation that ive dicussed earlier just that it is executed in Electric.
 Here is the schematic of the inverter.I've also created the inverter icon/symbol to use the same inverter for other projects. Notice ive changed the width of the inverter.<br />
-<br />
+<br>
 **Schematic**
-<br />
+<br>
 ![CMOS-Inverter-3](./Images/Pre-layout1.png)<br>
-<br />
+<br>
 **Output**
-<br />
+<br>
 ![CMOS-Inverter-3](./Images/Pre-layout2.png)<br>
 Lets look into the propagation delay,notice ive not connected any load accross the output terminals of the inverter.<br />
-<br />
+<br>
 **Schematic**
-<br />
+<br>
 ![CMOS-Inverter-3](./Images/Pre-layout3.png)<br>
-<br />
+<br>
 **Output**
-<br />
+<br>
 ![CMOS-Inverter-3](./Images/Pre-layout4.png)<br>
+<br>

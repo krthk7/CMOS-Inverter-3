@@ -18,4 +18,5 @@ Here is the schematic of the inverter.I've also created the inverter icon/symbol
 ![CMOS-Inverter-3](./Images/Pre-layout1.png)<br>
 **Output**
 ![CMOS-Inverter-3](./Images/Pre-layout2.png)<br>
+Lets look into the propagation delay,notice ive not connected any load accross the output terminals of the inverter.<br />
 

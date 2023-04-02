@@ -11,4 +11,11 @@ Whooo !! The last part of the project. This the last repository on the inverter 
 ***
 
 ## 1.Inverter Pre-Layout
-This part deals with the simulation of inverter in pre-layout part. This is the same simulation that ive dicussed earlier just that it is executed in 
+
+This part deals with the simulation of inverter in pre-layout part. This is the same simulation that ive dicussed earlier just that it is executed in Electric.
+Here is the schematic of the inverter.I've also created the inverter icon/symbol to use the same inverter for other projects. Notice ive changed the width of the inverter.<br />
+**Schematic**
+![CMOS-Inverter-3](./Images/Pre-layout1.png)<br>
+**Output**
+![CMOS-Inverter-3](./Images/Pre-layout2.png)<br>
+
